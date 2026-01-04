@@ -1,4 +1,4 @@
-<img width="942" height="493" alt="Screenshot 2026-01-04 at 6 35 59 PM" src="https://github.com/user-attachments/assets/0185951a-b0d3-4e40-8ed0-9dac9e497d9c" /># DevOps Environment Setup & Automation
+# DevOps Environment Setup & Automation
 
 # Overview
 To onboard two developers (Sarsh and Mike), a secure, monitored, and automated Linux-based development environment is required.
